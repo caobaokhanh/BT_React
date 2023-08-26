@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Glass from "./Glass";
 import data from "./dataGlasses";
-import style from "./style.css";
+import style from "./mystyle.module.css";
 
 console.log(data);
 export default function Glasses() {

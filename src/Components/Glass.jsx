@@ -1,6 +1,6 @@
 import React from "react";
 import data from "./dataGlasses";
-import style from "./style.css";
+import style from "./mystyle.module.css";
 
 export default function Glass({ onChangeGlass }) {
   return data.map((glass) => {
